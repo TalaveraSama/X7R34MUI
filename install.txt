@@ -1,0 +1,12 @@
+apt-get install python2
+wget Link_From_Ressorce
+python2 install.py
+
+
+
+is finished the installation add
+
+sudo nano /etc/crontab
+
+@reboot root /home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
